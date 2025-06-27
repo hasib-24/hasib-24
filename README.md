@@ -15,7 +15,7 @@
 - 📚 Learning **Python, JavaScript, Arduino, SQL, and Data Structures**
 - 🔭 I’m currently working on: `IoT Projects`, `Arduino Automation`, and `MySQL-based Systems`
 - 🧑‍🔬 Passionate about **research & innovation**
-- ✉️ You can reach me at: **your-email@example.com**
+- ✉️ You can reach me at: **hasib782004@gmail.com**
 
 ---
 
