@@ -27,19 +27,26 @@
 
 ---
 
-### 🚀 GitHub Stats:
+### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibmia&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibmia&theme=radical" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasibmia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibmia&theme=radical" alt="GitHub Streak" />
+</p
 
 ---
 
 ### 🧠 Top Skills:
 
 - 🔧 Problem Solving
-- 🕸️ Front-End Development
+- 🕸️ Front-End Deve### 🚀 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasibmia&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibmia&theme=radical" alt="GitHub Streak" />
+</plopment
 - 🔌 Arduino Projects & Automation
 - 📊 SQL and Database Design
 - 📈 Numerical Methods & Algorithms
