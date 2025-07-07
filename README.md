@@ -26,14 +26,17 @@
 </p>
 
 ---
+## 🛠️ Projects
 
-### 🚀 GitHub Stats
+Here are some of the meaningful projects I've worked on — combining clean code, purpose, and passion:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibmia&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibmia&theme=radical" alt="GitHub Streak" />
-</p
+
+### 📱 Hoddies Shop Website  
+A modern, responsive Hoddies shop website built using **HTML**, **CSS**, a. Designed to highlight user experience, responsiveness, and layout aesthetics.  
+🔗 [Live Demo](https://hoodiesbyhasib.netlify.app/) • 📂 [Source Code](https://github.com/hasibmia/coffee-shop)
+
+
+
 
 ---
 
@@ -42,11 +45,7 @@
 - 🔧 Problem Solving
 - 🕸️ Front-End Deve### 🚀 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibmia&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasibmia&theme=radical" alt="GitHub Streak" />
-</plopment
+
 - 🔌 Arduino Projects & Automation
 - 📊 SQL and Database Design
 - 📈 Numerical Methods & Algorithms
@@ -57,8 +56,9 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:hasib782004@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://github.com/hasibmia"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
+    <a href="https://www.facebook.com/md.hasib.mia.62911"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" /></a>
 </p>
 
 ---
